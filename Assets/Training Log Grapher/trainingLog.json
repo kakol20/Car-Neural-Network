@@ -1,0 +1,159 @@
+{
+    "Items": [
+        {
+            "generation": 1,
+            "medianFitness": 2.160191774368286,
+            "topFitness": 4.712099075317383
+        },
+        {
+            "generation": 2,
+            "medianFitness": 2.550938844680786,
+            "topFitness": 4.741391658782959
+        },
+        {
+            "generation": 3,
+            "medianFitness": 2.974369525909424,
+            "topFitness": 9.773432731628418
+        },
+        {
+            "generation": 4,
+            "medianFitness": 4.633171558380127,
+            "topFitness": 9.945747375488282
+        },
+        {
+            "generation": 5,
+            "medianFitness": 4.762354850769043,
+            "topFitness": 9.994598388671875
+        },
+        {
+            "generation": 6,
+            "medianFitness": 6.787635803222656,
+            "topFitness": 9.994850158691407
+        },
+        {
+            "generation": 7,
+            "medianFitness": 7.821847915649414,
+            "topFitness": 9.994614601135254
+        },
+        {
+            "generation": 8,
+            "medianFitness": 8.066349983215332,
+            "topFitness": 9.995190620422364
+        },
+        {
+            "generation": 9,
+            "medianFitness": 8.353433609008789,
+            "topFitness": 32.375450134277347
+        },
+        {
+            "generation": 10,
+            "medianFitness": 9.57088565826416,
+            "topFitness": 118.1118392944336
+        },
+        {
+            "generation": 11,
+            "medianFitness": 32.044578552246097,
+            "topFitness": 194.68907165527345
+        },
+        {
+            "generation": 12,
+            "medianFitness": 32.160423278808597,
+            "topFitness": 194.84910583496095
+        },
+        {
+            "generation": 13,
+            "medianFitness": 32.366676330566409,
+            "topFitness": 194.7091064453125
+        },
+        {
+            "generation": 14,
+            "medianFitness": 32.701904296875,
+            "topFitness": 194.87527465820313
+        },
+        {
+            "generation": 15,
+            "medianFitness": 32.61845397949219,
+            "topFitness": 194.81381225585938
+        },
+        {
+            "generation": 16,
+            "medianFitness": 32.70355987548828,
+            "topFitness": 194.72586059570313
+        },
+        {
+            "generation": 17,
+            "medianFitness": 32.99703598022461,
+            "topFitness": 194.91383361816407
+        },
+        {
+            "generation": 18,
+            "medianFitness": 40.07356262207031,
+            "topFitness": 194.74893188476563
+        },
+        {
+            "generation": 19,
+            "medianFitness": 90.64125061035156,
+            "topFitness": 194.7222137451172
+        },
+        {
+            "generation": 20,
+            "medianFitness": 118.0760498046875,
+            "topFitness": 194.8221893310547
+        },
+        {
+            "generation": 21,
+            "medianFitness": 118.0759048461914,
+            "topFitness": 194.87486267089845
+        },
+        {
+            "generation": 22,
+            "medianFitness": 118.15767669677735,
+            "topFitness": 194.6988525390625
+        },
+        {
+            "generation": 23,
+            "medianFitness": 118.19725036621094,
+            "topFitness": 194.89755249023438
+        },
+        {
+            "generation": 24,
+            "medianFitness": 118.22089385986328,
+            "topFitness": 194.7209014892578
+        },
+        {
+            "generation": 25,
+            "medianFitness": 118.17732238769531,
+            "topFitness": 194.8151397705078
+        },
+        {
+            "generation": 26,
+            "medianFitness": 119.34306335449219,
+            "topFitness": 194.80567932128907
+        },
+        {
+            "generation": 27,
+            "medianFitness": 119.19941711425781,
+            "topFitness": 194.91720581054688
+        },
+        {
+            "generation": 28,
+            "medianFitness": 118.31343841552735,
+            "topFitness": 194.8884735107422
+        },
+        {
+            "generation": 29,
+            "medianFitness": 118.48976135253906,
+            "topFitness": 194.84336853027345
+        },
+        {
+            "generation": 30,
+            "medianFitness": 187.96206665039063,
+            "topFitness": 194.90817260742188
+        },
+        {
+            "generation": 31,
+            "medianFitness": 193.44381713867188,
+            "topFitness": 194.98452758789063
+        }
+    ]
+}

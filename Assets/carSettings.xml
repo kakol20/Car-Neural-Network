@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<CarSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <brakeForce>2000</brakeForce>
+  <drag>0.05</drag>
+  <maxVelocity>40</maxVelocity>
+  <steeringAngle>90</steeringAngle>
+  <throttleForce>10000</throttleForce>
+</CarSettings>
